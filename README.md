@@ -2,7 +2,7 @@
 
 <img alt="NASA-Logo" align="right" width="100" height="100" src="https://techport.nasa.gov/images/NASA-Logo.png" >
 
-**Unofficial** CLI app to discover new technologies [`NASA`](https://www.nasa.gov) is working on every day, using it's RESTful web services API.
+**Unofficial** CLI app to discover new technologies [`NASA`](https://www.nasa.gov) is working on every day, using it's RESTful web services [API](https://techport.nasa.gov/xml-api).
 
 >NASA is working on technologies for propulsion, nanotechnology, robots, and human health.
 
